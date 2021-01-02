@@ -1,0 +1,16 @@
+Experiments conducted by Dr. ||||||||| : 
+
+Input : crowbar
+Output : 21 similar crowbars, each one having a difference with the original input (rust, one side missing, sometimes just scrap).
+
+Input : gold ingot
+Output : |||| similar gold ingots, each one of them was drastically lighter. When cut open, what used to be a full gold ingot had become an undetermined material similar to silver with a very thin coat of gold veneer.
+
+Input : bowl of rice
+Output : 1 bowl of tasteless rice
+
+Input : 1 sheet of paper with [DATA EXPUNGED] written on it
+Output : 13 sheets of paper, where the text had been corrupted by the word ||||.
+
+Input : 1 parrot
+Output : [DATA EXPUNGED]

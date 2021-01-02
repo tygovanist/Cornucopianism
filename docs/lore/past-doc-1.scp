@@ -1,0 +1,39 @@
+----------------------------------------------------
+	CORNUCOPIANISM EXPERIMENT #1 : LOGS
+----------------------------------------------------
+
+Insertion of paper with message "Hello" on it 
+Result : "Hecho"
+
+Insertion of paper with message "Hello" on it
+Result : "echoo"
+
+Insertion of paper with message "Hello" on it
+Result : "Hecho"
+
+CYCLE 1 COMPLETED /// 1C, 4
+
+-------------------------------------------
+
+Tag:  I | Insertion of paper with message "Hello", then insertion of a second paper saying "Can you see" while former paper is being converted [Timed 0.13s]
+Hello paper > "echoo"
+Can you see paper > "yecho"
+
+Tag: II | Insertion of paper with message "Hello", then injection of a second paper saying "Can you see" [...] [Timed 0.12s]
+Hello paper > "Hecho"
+2nd paper > "Yes"
+
+Repeat I > "echoo", "Yes"
+Repeat II > "Hecho", "Yes"
+Insertion of paper with message "What are you?" [(Timed 0.12s)]
+Result : "Soechomething"
+
+---------------------------------------------
+# Experiments of the same nature, most of them are redacted
+---------------------------------------------
+
+ExC: Notes |
+; It seems that the Horn obeys a very timed and strict schedule when converting materials to ||||||||||. However, when following [i & m] protocols, said schedule frees some sort of consciousness capable of answering basic questions ("Can you see?", "What are you?"). It could potentially lead us to fixing products into the atmosphere, therefore making the Horn a fully-fledged Horn of plenty.
+
+
+TAG: OVER
