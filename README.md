@@ -7,4 +7,4 @@ dev/ folder :
 Suggestions from interns
 
 docs/ folder :
-official addendums
+official addendums and incidents
