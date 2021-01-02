@@ -4,7 +4,7 @@ Input : crowbar
 Output : 21 similar crowbars, each one having a difference with the original input (rust, one side missing, metal thrashed all over).
 
 Input : gold ingot
-Output : |||| similar gold ingots, each one of them was drastically lighter. When cut open, what used to be a full gold ingot had become an undetermined material similar to silver with a very thing coat of gold veneer.
+Output : |||| similar gold ingots, each one of them was drastically lighter. When cut open, what used to be a full gold ingot had become an undetermined material similar to silver with a very thin coat of gold veneer.
 
 Input : bowl of rice
 Output : 1 bowl of tasteless rice
