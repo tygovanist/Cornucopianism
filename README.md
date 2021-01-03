@@ -8,3 +8,5 @@ Suggestions from interns
 
 docs/ folder :
 official addendums and incidents
+
+pls add nut
